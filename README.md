@@ -1,0 +1,2 @@
+# WeirdCalculator
+Mentoring repo
